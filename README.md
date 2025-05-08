@@ -28,5 +28,5 @@ This project implements a simple peer-to-peer (P2P) chat application using UDP s
 3. Start Client 2 (in second terminal): python chatP2.py <your_username> <your_ip:your_port> <destination_username> <dir_ip:dir_port>
    [EX] python chatP2.py bob 127.0.0.1:5002 alice 127.0.0.1:4000
 
-##Exiting
+## Exiting
 -To exit, press Ctrl+C in client terminal
